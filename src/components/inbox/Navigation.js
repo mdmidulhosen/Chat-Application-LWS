@@ -15,7 +15,7 @@ export default function Navigation() {
                     </Link>
                     <ul>
                         <li className="text-white">
-                            <a href="#">Logout</a>
+                            <Link to="/">Logout</Link>
                         </li>
                     </ul>
                 </div>
