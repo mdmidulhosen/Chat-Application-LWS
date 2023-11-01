@@ -47,6 +47,13 @@
       "name": "Muhammad Kibria",
       "confirmPassword": "1111",
       "id": 10
+    },
+    {
+      "email": "m@gmail.com",
+      "password": "$2a$10$h.srV6G7aLx1EpGNUSBGperMF/nj.O2.FuqNtlyflQLuf7CP1ph5e",
+      "name": "Muhammad Kibria",
+      "confirmPassword": "121212",
+      "id": 11
     }
   ],
   "conversations": [
