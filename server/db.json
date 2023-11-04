@@ -13,6 +13,13 @@
       "name": "Muhammad Kibria",
       "confirmPassword": "1111",
       "id": 2
+    },
+    {
+      "email": "a@b.com",
+      "password": "$2a$10$WCZH3byQCGmzfy7D2NFyk.Ch3decbtiKeeMI6uLu4HAumtfifHzIW",
+      "name": "Muhammad Kibria",
+      "confirmPassword": "1111",
+      "id": 3
     }
   ],
   "conversations": [
